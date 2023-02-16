@@ -1,4 +1,4 @@
-# Timeseries Framework (TSFW)
+# Dynamic Forecaster (Time-series Framework)
 A timeseries framework that iterates over a temporal dataset and fits various different models and outputs the result in the form of plots and accuracy (MAPE). It performs different feature combinations for different model classes and then outputs a table that reflects the top models.
 
 
