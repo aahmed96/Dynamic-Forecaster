@@ -1,5 +1,5 @@
 # Timeseries Framework (TSFW)
-A timeseries framework that iterates over and fits various different models and outputs the result in the form of plots and accuracy (MAPE). It performs different feature combinations for different model classes and then outputs a table that reflects
+A timeseries framework that iterates over a temporal dataset and fits various different models and outputs the result in the form of plots and accuracy (MAPE). It performs different feature combinations for different model classes and then outputs a table that reflects the top models.
 
 
 ## How to use
